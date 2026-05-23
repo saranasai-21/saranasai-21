@@ -75,7 +75,7 @@ Retrieval-Augmented Generation chatbot with contextual document understanding an
 ---
 
 ## 🔹 Pneumonia Detection
-AI-powered pneumonia detection model using Chest X-ray images and Deep Learning techniques to classify infected and normal lungs with high accuracy.
+Pneumonia detection model using Chest X-ray images and Deep Learning techniques to classify infected and normal lungs with high accuracy.
 
 ### 🚀 Tech Used
 `TensorFlow` • `Keras` • `CNN` • `OpenCV` • `Grad-CAM`
