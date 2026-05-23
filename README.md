@@ -14,15 +14,12 @@
 # 🚀 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-Hey there! 👋 I'm a Data Scientist and AI/ML enthusiast passionate about building intelligent systems using Machine Learning, Deep Learning, Computer Vision, and Generative AI.
-I enjoy developing end-to-end AI solutions, exploring LLMs and RAG systems, and turning data into impactful applications.
 
-- 🧠 Data Scientist, Gen AI & AI/ML Engineer
-- 🚀 Building intelligent AI systems
-- 🤖 Exploring LLMs & Generative AI
-- 📊 Passionate about Machine Learning & Deep Learning
-- ⚡ Creating end-to-end ML pipelines
-- 🌍 Solving real-world problems using AI
+Hey there! 👋 I'm a Data Scientist and AI/ML enthusiast passionate about building intelligent systems that solve real-world problems. I specialize in Machine Learning, Deep Learning, Computer Vision, and Generative AI, with hands-on experience in developing end-to-end AI solutions.
+
+Proficient in Python, SQL, Machine Learning frameworks, and modern development tools, I enjoy transforming raw data into actionable insights and scalable AI applications. 
+
+Currently exploring Large Language Models (LLMs), RAG systems, and advanced AI technologies while continuously building impactful projects.
 
 ---
 
