@@ -11,43 +11,17 @@
 
 ---
 
-<div align="center">
-
-### Turning Data into Intelligent Solutions
-
-</div>
-
----
-
 # 🚀 About Me
 
-```python
-class BagadiSaranaSai:
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Hey there! I'm a passionate **Data Scientist and AI/ML Engineer** who transforms raw data into intelligent solutions. I love exploring the intersection of AI, machine learning, and cutting-edge technology.
 
-    def __init__(self):
-        self.role = "Data Scientist & AI/ML Engineer"
-
-        self.specialization = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Generative AI",
-            "RAG Systems"
-        ]
-
-    def current_focus(self):
-        return [
-            "LLMs",
-            "AI Applications",
-            "End-to-End ML Pipelines",
-            "Deployment & Optimization"
-        ]
-```
-
-- 🧠 Passionate about AI, ML, and Generative AI
-- ⚡ Building scalable end-to-end ML systems
-- 📊 Solving real-world problems using intelligent models
-- 🚀 Exploring LLMs, RAG pipelines, and Computer Vision
+- 🧠 Data Scientist & AI/ML Engineer
+- 🚀 Building intelligent AI systems
+- 🤖 Exploring LLMs & Generative AI
+- 📊 Passionate about Machine Learning & Deep Learning
+- ⚡ Creating end-to-end ML pipelines
+- 🌍 Solving real-world problems using AI
 
 ---
 
@@ -122,9 +96,9 @@ Machine learning system for repayment prediction and financial risk analysis.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saranasai-21&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saranasai-21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saranasai-21&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=saranasai-21&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranasai-21&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -162,32 +136,9 @@ Machine learning system for repayment prediction and financial risk analysis.
 
 </div>
 
+
+  
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI%2FML+Engineer;AI%2FML+Enthusiast+%7C+Building+Intelligent+Model" alt="Typing SVG">
 </div>
 
----
-
-## 🚀 About Me
-
-Hey there! I'm a passionate **Data Scientist and ML Engineer** who transforms raw data into intelligent solutions. I love exploring the intersection of AI, machine learning, and cutting-edge technology. When I'm not coding, you'll find me creating content and sharing knowledge with the tech community.
-
-- 🧠 Obsessed with **Large Language Models** and **Generative AI**
-- 🎯 Building end-to-end **ML pipelines** from scratch
-- 🌍 Turning complex data into actionable insights
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranasaibagadi)
-
-</div>
-
----
-
-
-  
-</div>
