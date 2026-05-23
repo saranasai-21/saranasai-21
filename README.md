@@ -98,20 +98,6 @@ Machine learning system for repayment prediction and financial risk analysis.
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saranasai-21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=saranasai-21&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranasai-21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🧠 Currently Exploring
 
 - Large Language Models (LLMs)
