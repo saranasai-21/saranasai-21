@@ -5,7 +5,7 @@
 
 # **Bagadi Sarana Sai**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Scientist;AI%2FML+Engineer;Generative+AI+Developer;Building+Intelligent+Systems;Computer+Vision+%7C+LLMs+%7C+RAG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+AI%2FML+Engineer;Generative+AI+Developer;Building+Intelligent+Systems;Computer+Vision+%7C+LLMs+%7C+RAG" />
 
 </div>
 
@@ -68,19 +68,27 @@ Hey there! I'm a passionate **Data Scientist and AI/ML Engineer** who transforms
 
 # 🎯 Featured Projects
 
-## 🔹 E-Waste Image Classification
-Deep learning-based image classification system using EfficientNetV2 for smart e-waste categorization.
-
-### Tech Used
-`TensorFlow` • `KerasCV` • `Computer Vision`
-
----
-
 ## 🔹 AI-Powered RAG Chatbot
 Retrieval-Augmented Generation chatbot with contextual document understanding and semantic search.
 
 ### Tech Used
 `LangChain` • `FAISS` • `LLMs` • `Streamlit`
+
+---
+
+## 🔹 Pneumonia Detection
+AI-powered pneumonia detection model using Chest X-ray images and Deep Learning techniques to classify infected and normal lungs with high accuracy.
+
+### 🚀 Tech Used
+`TensorFlow` • `Keras` • `CNN` • `OpenCV` • `Grad-CAM`
+
+---
+
+## 🔹 E-Waste Image Classification
+Deep learning-based image classification system using EfficientNetV2 for smart e-waste categorization.
+
+### Tech Used
+`TensorFlow` • `KerasCV` • `Computer Vision`
 
 ---
 
@@ -132,13 +140,4 @@ Machine learning system for repayment prediction and financial risk analysis.
 
 <img src="https://komarev.com/ghpvc/?username=saranasai-21&style=for-the-badge&color=blueviolet" />
 
-### **Made by Bagadi Sarana Sai**
-
 </div>
-
-
-  
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI%2FML+Engineer;AI%2FML+Enthusiast+%7C+Building+Intelligent+Model" alt="Typing SVG">
-</div>
-
