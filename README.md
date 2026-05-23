@@ -1,25 +1,59 @@
-<!-- Animated Header with Wave GIF -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/wave.gif" width="30px" height="30px" alt="wave">
-  <h1><b>Bagadi Sarana Sai</b></h1>
-  
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI%2FML+Engineer;AI%2FML+Enthusiast+%7C+Building+Intelligent+Model" alt="Typing SVG">
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/wave.gif" width="45px">
+
+# **Bagadi Sarana Sai**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Scientist;AI%2FML+Engineer;Generative+AI+Developer;Building+Intelligent+Systems;Computer+Vision+%7C+LLMs+%7C+RAG" />
+
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-Hey there! I'm a passionate **Data Scientist and ML Engineer** who transforms raw data into intelligent solutions. I love exploring the intersection of AI, machine learning, and cutting-edge technology. When I'm not coding, you'll find me creating content and sharing knowledge with the tech community.
+### Turning Data into Intelligent Solutions
 
-- 🧠 Obsessed with **Large Language Models** and **Generative AI**
-- 🎯 Building end-to-end **ML pipelines** from scratch
-- 🌍 Turning complex data into actionable insights
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 🚀 About Me
+
+```python
+class BagadiSaranaSai:
+
+    def __init__(self):
+        self.role = "Data Scientist & AI/ML Engineer"
+
+        self.specialization = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Generative AI",
+            "RAG Systems"
+        ]
+
+    def current_focus(self):
+        return [
+            "LLMs",
+            "AI Applications",
+            "End-to-End ML Pipelines",
+            "Deployment & Optimization"
+        ]
+```
+
+- 🧠 Passionate about AI, ML, and Generative AI
+- ⚡ Building scalable end-to-end ML systems
+- 📊 Solving real-world problems using intelligent models
+- 🚀 Exploring LLMs, RAG pipelines, and Computer Vision
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
 
 <div align="center">
 
@@ -58,6 +92,92 @@ Hey there! I'm a passionate **Data Scientist and ML Engineer** who transforms ra
 
 ---
 
+# 🎯 Featured Projects
+
+## 🔹 E-Waste Image Classification
+Deep learning-based image classification system using EfficientNetV2 for smart e-waste categorization.
+
+### Tech Used
+`TensorFlow` • `KerasCV` • `Computer Vision`
+
+---
+
+## 🔹 AI-Powered RAG Chatbot
+Retrieval-Augmented Generation chatbot with contextual document understanding and semantic search.
+
+### Tech Used
+`LangChain` • `FAISS` • `LLMs` • `Streamlit`
+
+---
+
+## 🔹 Delinquency Prediction System
+Machine learning system for repayment prediction and financial risk analysis.
+
+### Tech Used
+`Scikit-learn` • `Pandas` • `EDA` • `ML Pipelines`
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saranasai-21&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saranasai-21&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranasai-21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Currently Exploring
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Deep Learning Optimization
+- MLOps & Deployment
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/saranasaibagadi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=saranasai-21&style=for-the-badge&color=blueviolet" />
+
+### **Made by Bagadi Sarana Sai**
+
+</div>
+
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI%2FML+Engineer;AI%2FML+Enthusiast+%7C+Building+Intelligent+Model" alt="Typing SVG">
+</div>
+
+---
+
+## 🚀 About Me
+
+Hey there! I'm a passionate **Data Scientist and ML Engineer** who transforms raw data into intelligent solutions. I love exploring the intersection of AI, machine learning, and cutting-edge technology. When I'm not coding, you'll find me creating content and sharing knowledge with the tech community.
+
+- 🧠 Obsessed with **Large Language Models** and **Generative AI**
+- 🎯 Building end-to-end **ML pipelines** from scratch
+- 🌍 Turning complex data into actionable insights
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -68,14 +188,6 @@ Hey there! I'm a passionate **Data Scientist and ML Engineer** who transforms ra
 
 ---
 
-## 🎯 Featured Projects
 
-*Coming Soon* - Check back for my latest ML projects and implementations!
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saranasai-21&color=blueviolet" alt="Profile Views">
   
-  **Made by Bagadi Sarana Sai**
 </div>
