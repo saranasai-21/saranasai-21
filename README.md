@@ -4,7 +4,7 @@
   <h1><b>Bagadi Sarana Sai</b></h1>
   
   <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;AI%2FML+Enthusiast+%7C+Tech+Creator;Building+Intelligent+Solutions" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI%2FML+Engineer;AI%2FML+Enthusiast+%7C+Building+Intelligent+Model" alt="Typing SVG">
 </div>
 
 ---
@@ -64,16 +64,6 @@ Hey there! I'm a passionate **Data Scientist and ML Engineer** who transforms ra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranasaibagadi)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saranasai-21&show_icons=true&theme=radical" alt="GitHub Stats">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranasai-21&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
