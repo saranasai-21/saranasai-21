@@ -14,9 +14,10 @@
 # 🚀 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-Hey there! I'm a passionate **Data Scientist and AI/ML Engineer** who transforms raw data into intelligent solutions. I love exploring the intersection of AI, machine learning, and cutting-edge technology.
+Hey there! 👋 I'm a Data Scientist and AI/ML enthusiast passionate about building intelligent systems using Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+I enjoy developing end-to-end AI solutions, exploring LLMs and RAG systems, and turning data into impactful applications.
 
-- 🧠 Data Scientist & AI/ML Engineer
+- 🧠 Data Scientist, Gen AI & AI/ML Engineer
 - 🚀 Building intelligent AI systems
 - 🤖 Exploring LLMs & Generative AI
 - 📊 Passionate about Machine Learning & Deep Learning
