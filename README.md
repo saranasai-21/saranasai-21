@@ -87,5 +87,5 @@ Hey there! I'm a passionate **Data Scientist and ML Engineer** who transforms ra
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saranasai-21&color=blueviolet" alt="Profile Views">
   
-  **Made with ❤️ by Bagadi Sarana Sai**
+  **Made by Bagadi Sarana Sai**
 </div>
