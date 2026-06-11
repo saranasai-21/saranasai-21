@@ -119,9 +119,14 @@ Machine learning system for repayment prediction and financial risk analysis.
 </div>
 
 ---
+# 📈 GitHub Stats
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=saranasai-21&style=for-the-badge&color=blueviolet" />
 
 </div>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranasai-21&layout=compact&theme=tokyonight" />
+</p>
